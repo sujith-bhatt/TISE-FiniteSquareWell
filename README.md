@@ -3,8 +3,9 @@ Time Independent Solution of Schrodinger's Equation for a Finite Square Well
 > Author: K Sujith Bhatt || Date: 15th August, 2020
 ___________
 
-This is a program that is modelled to visualize the various energy eigenstates of the finite 1D square well potential using Schrodinger's equation.
-The program was coded as a part of the course Electron Properties of Materials.
+> This is a program that is modelled to visualize the various energy eigenstates of the finite 1D square well potential using Schrodinger's equation.
+<br/>
+> The program was coded as a part of the course Electronic Properties of Materials.
 ___________
 ## Languages and Tools Used
 
